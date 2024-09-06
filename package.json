@@ -14,14 +14,14 @@
     "test": "jest e2e-tests"
   },
   "dependencies": {
-    "css-loader": "^6.7.1",
-    "css-minimizer-webpack-plugin": "^3.4.1",
+    "css-loader": "^6.9.0",
+    "css-minimizer-webpack-plugin": "^6.0.0",
     "file-loader": "^6.2.0",
     "jquery": "^3.6.0",
     "less": "^4.1.1",
     "less-loader": "^10.0.0",
-    "mini-css-extract-plugin": "^1.6.0",
-    "style-loader": "^2.0.0",
+    "mini-css-extract-plugin": "^2.0.0",
+    "style-loader": "^3.0.0",
     "superagent": "^5.2.2",
     "web-vitals": "^2.1.0",
     "webpack": "^5.40.0",
